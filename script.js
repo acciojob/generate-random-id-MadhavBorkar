@@ -11,7 +11,7 @@ function makeid(l) {
 	  ) 
   }
 
-  return result;
+  return res;
 }
 // Do not change the code below.
 const l = prompt("Enter a number.");
